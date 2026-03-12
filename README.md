@@ -7,6 +7,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
+![Main Page](public/main_page.jpg)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
